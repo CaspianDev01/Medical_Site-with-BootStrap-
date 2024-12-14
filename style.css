@@ -23,4 +23,9 @@ header{background: url('./img/header-bg.jpg') 60% 50%/cover;}
 .bgbozimg{
     max-width: 200px;
 }
-
+@media only screen and (min-width: 768px){
+    .container{
+        max-width:1000px;
+    }
+}
+    
